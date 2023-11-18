@@ -9,10 +9,31 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Nov 2023 23:49:28 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Nov 2023 00:05:53 +0200</lastBuildDate>
     
 	<atom:link href="https://DomasMil.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Image</title>
+      <link>https://DomasMil.github.io/posts/image/</link>
+      <pubDate>Sun, 19 Nov 2023 00:05:53 +0200</pubDate>
+      
+      <guid>https://DomasMil.github.io/posts/image/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+           Click me
+def pasisveikinimas(): print(&amp;#34;Sveikas, pasauli!&amp;#34;) pasisveikinimas() 
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Welcome</title>

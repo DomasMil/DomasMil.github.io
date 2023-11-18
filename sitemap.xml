@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://DomasMil.github.io/posts/image/</loc>
+    <lastmod>2023-11-19T00:05:53+02:00</lastmod>
+  </url><url>
     <loc>https://DomasMil.github.io/</loc>
-    <lastmod>2023-11-18T23:49:28+02:00</lastmod>
+    <lastmod>2023-11-19T00:05:53+02:00</lastmod>
   </url><url>
     <loc>https://DomasMil.github.io/posts/</loc>
-    <lastmod>2023-11-18T23:49:28+02:00</lastmod>
+    <lastmod>2023-11-19T00:05:53+02:00</lastmod>
   </url><url>
     <loc>https://DomasMil.github.io/posts/welcome/</loc>
     <lastmod>2023-11-18T23:49:28+02:00</lastmod>
